@@ -21,6 +21,8 @@ redirect_from:
 His Google scholar citations are about <strong><span id='total_cit'>2500+</span></strong> times with H-index <strong><span id='hindex'>20</span></strong> <a href='https://scholar.google.com/citations?user=3h3tZpAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 Four papers are selected as the **ESI Highly Cited** Paper including one **ESI Hot** Paper. He has also obtained many flagship scholarships such as **National Natural Science Fund for Excellent Young scientists Fund Program (Overseas), Excellent CAAI PhD thesis award, National scholarship for doctoral students, National scholarship for studying abroad, and Excellent Graduates in Beijing**. He worked as a joint Ph.D. student in College of Engineering \& Computer Science, Australian National University (ANU) under the supervision of Professor Fatih Porikli. He is the regular reviewer for many famous conferences, such as IEEE CVPR, IEEE ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, and ACCV, and journals, such as IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, TITS, PR, CVIU, NEUCOM, TVCJ, and SIVP. His current research interests include (1) Visual object tracking, (2) Deep reinforcement learning, (3) Image segmentation, (4) Few shot learning, (5) Neural rendering. 
 
+**E-Mail**: xingping.dong@gmail.com
+
 
 # 🔥 News
 - *2023.03*: &nbsp;🎉🎉 one paper is accepted to CVPR‘23. 
