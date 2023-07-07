@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xingping Dong"
-description              : "Currently I am a research scientist in IIAI.  "
+description              : "Currently I am a professor in the School of Computer Science, Wuhan University.  "
 repository               : "xingpingdong/xingpingdong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xingping Dong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Inception Institute of Artificial Intelligence"
-  location         : "Abu Dhabi, UAE"
+  bio              : "School of Computer Science, Wuhan University"
+  location         : "Hubei, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3h3tZpAAAAAJ&hl=zh-CN"
