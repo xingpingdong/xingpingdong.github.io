@@ -20,23 +20,32 @@ redirect_from:
 **Xingping Dong** is a professor in the School of Computer Science, Wuhan University. He was a research scientist in Inception Institute of Artificial Intelligence (IIAI), 2019-2023. In 2019, he received his Ph.D. degree in Beijing Lab of Intelligent Information Technology at School of Computer Science, Beijing Institute of Technology (BIT) under the supervision of Professor Jianbing Shen. He worked as a joint Ph.D. student in College of Engineering \& Computer Science, Australian National University (ANU) under the supervision of Professor Fatih Porikli. 
 He has published 20+ conference and journal papers such as **IEEE CVPR, ECCV, IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, IEEE TCYB and IEEE TCSVT**.
 His Google scholar citations are about <strong><span id='total_cit'>2500+</span></strong> times with H-index <strong><span id='hindex'>20</span></strong> <a href='https://scholar.google.com/citations?user=3h3tZpAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-Four papers are selected as the **ESI Highly Cited** Paper including one **ESI Hot** Paper. He has also obtained many flagship scholarships such as **National Natural Science Fund for Excellent Young scientists Fund Program (Overseas), Excellent CAAI PhD thesis award, National scholarship for doctoral students, National scholarship for studying abroad, and Excellent Graduates in Beijing**. He is the regular reviewer for many famous conferences, such as IEEE CVPR, IEEE ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, and ACCV, and journals, such as IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, TITS, PR, CVIU, NEUCOM, TVCJ, and SIVP. His current research interests include (1) Visual object tracking, (2) Deep reinforcement learning, (3) Image segmentation, (4) Few shot learning, (5) Neural rendering. 
+Four papers are selected as the **ESI Highly Cited** Paper including one **ESI Hot** Paper. He has also obtained many flagship scholarships such as **National Natural Science Fund for Excellent Young scientists Fund Program (Overseas), Excellent CAAI PhD thesis award, National scholarship for doctoral students, National scholarship for studying abroad, and Excellent Graduates in Beijing**. He is the regular reviewer for many famous conferences, such as IEEE CVPR, IEEE ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, and ACCV, and journals, such as IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, TITS, PR, CVIU, NEUCOM, TVCJ, and SIVP. His current research interests include (1) Visual object tracking, (2) Deep reinforcement learning, (3) Image segmentation, (4) Few shot learning, (5) 3D reconstruction. 
 
 **E-Mail**: xingping.dong@gmail.com
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 one paper is accepted to TPAMI. 
 - *2023.03*: &nbsp;🎉🎉 one paper is accepted to CVPR‘23. 
 - *2022.12*: &nbsp;🎉🎉 one paper is accepted to TPAMI. 
 - *2022.07*: &nbsp;🎉🎉 two papers are accepted to ECCV'22, including one Oral paper. 
 
 # 📝 Publications 
+* *Corresponding Author, #Equal Contribution
+  
+## **2024**
+[28] Yanghong Liu, **Xingping Dong***, Yutian Lin, Mang Ye, "DifTraj: Diffusion Inspired by Intrinsic Intention and Extrinsic Interaction for Multi-Modal Trajectory Prediction", in **Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI)**, 2024. **(CCF Rank A)** [pdf](www.ijcai.org/proceedings/2024/0125.pdf)
+
+[27] Wencheng Han, **Xingping Dong**, Yiyuan Zhang, David Crandall, Cheng-Zhong Xu, Jianbing Shen, 
+"Asymmetric Convolution: An Efficient and Generalized Method to Fuse Feature Maps in Multiple Vision Tasks," in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, doi: 10.1109/TPAMI.2024.3400873. **(SCI, IF=20.8, CCF Rank A)** [IEEE](https://ieeexplore.ieee.org/abstract/document/10530458) [code](https://github.com/wencheng256/SiamBAN-ACM)
+
 ## **2023**
-[26] Dongming Wu, Wencheng Han, Tiancai Wang, **Xingping Dong**, Xiangyu Zhang, and Jianbing Shen. "Referring Multi-Object Tracking",. In **CVPR**, 2023. **(CCF Rank A)** [arXiv](https://arxiv.org/abs/2303.03366), [code](https://github.com/wudongming97/RMOT)
+[26] Dongming Wu, Wencheng Han, Tiancai Wang, **Xingping Dong**, Xiangyu Zhang, and Jianbing Shen. "Referring Multi-Object Tracking", In **CVPR**, 2023. **(CCF Rank A)** [arXiv](https://arxiv.org/abs/2303.03366), [code](https://github.com/wudongming97/RMOT)
+
+[25] **Xingping Dong**, Jianbing Shen, Fatih Porikli, Jiebo Luo, and Ling Shao, "Adaptive Siamese Tracking with a Compact Latent Network," in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 45(7): 8049-8062, 2023. **(SCI, IF=24.314, CCF Rank A)** [arXiv](https://arxiv.org/pdf/2302.00930.pdf) [IEEE](https://ieeexplore.ieee.org/document/9991898)
 
 ## **2022**
-[25] **Xingping Dong**, Jianbing Shen, Fatih Porikli, Jiebo Luo, and Ling Shao, "Adaptive Siamese Tracking with a Compact Latent Network," in **IEEE Transactions on Pattern Analysis and Machine Intelligence**, doi: 10.1109/TPAMI.2022.3230064. **(SCI, IF=24.314, CCF Rank A)** [arXiv](https://arxiv.org/pdf/2302.00930.pdf)
-
 [24] Wenhao Cheng#, **Xingping Dong**#, Salman Khan, and Jianbing Shen.
 Learning Disentanglement with Decoupled Labels for Vision-Language Navigation. In **ECCV**, 2022. [pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960305.pdf), [code](https://github.com/cwhao98/DDL) (**Oral**, #Equal contribution)
 
