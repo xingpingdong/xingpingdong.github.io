@@ -35,6 +35,8 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
 * *Corresponding Author, #Equal Contribution
   
 ## **2024**
+[29] **Xingping Dong***, Tianran Ouyang, Shengcai Liao*, Bo Du, Ling Shao, "Pseudo-Labeling Based Practical Semi-Supervised Meta-Training for Few-Shot Learning," in IEEE Transactions on Image Processing, vol. 33, pp. 5663-5675, 2024. **(CCF Rank A)** [arXiv](https://arxiv.org/pdf/2207.06817) [code](https://github.com/ouyangtianran/PLML)
+
 [28] Yanghong Liu, **Xingping Dong***, Yutian Lin, Mang Ye, "DifTraj: Diffusion Inspired by Intrinsic Intention and Extrinsic Interaction for Multi-Modal Trajectory Prediction", in **Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI)**, 2024. **(CCF Rank A)** [pdf](www.ijcai.org/proceedings/2024/0125.pdf)
 
 [27] Wencheng Han, **Xingping Dong**, Yiyuan Zhang, David Crandall, Cheng-Zhong Xu, Jianbing Shen, 
