@@ -34,7 +34,32 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
 # 📝 Publications 
 * *Corresponding Author, #Equal Contribution
   
+## **2025**
+[35] Muyu Wang, Sanyuan Zhao, **Xingping Dong***, Jianbing Shen,  
+“High-Fidelity and High-Efficiency Talking Portrait Synthesis With Detail-Aware Neural Radiance Fields,”  
+*IEEE Transactions on Visualization and Computer Graphics*, vol. 31, no. 9, pp. 6022–6035, 2025. **(CCF Rank A)**
+
+[34] Tianran Ouyang, **Xingping Dong***, Mang Ye, Bo Du, Ling Shao, Jianbing Shen,  
+“Semantic-Aware Pseudo-Labeling for Unsupervised Meta-Learning,”  
+*IEEE Transactions on Pattern Analysis and Machine Intelligence*, vol. 47, no. 7, pp. 5475-5488, July 2025. **(CCF Rank A)**
+
+[33] Dubing Chen, Huan Zheng, Jin Fang, **Xingping Dong**, Xianfei Li, Wenlong Liao, Tao He, Pai Peng, Jianbing Shen,  
+“Rethinking Temporal Fusion With a Unified Gradient Descent View for 3D Semantic Occupancy Prediction,”  
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, pp. 1505–1515, 2025. **(CCF Rank A)**
+
+[32] Mengjie Liu, Weixing Zhang, Yidong Lou, **Xingping Dong**, Zhenyi Zhang, Xiaohong Zhang,  
+“A Deep Learning-Based Precipitation Nowcasting Model Fusing GNSS-PWV and Radar Echo Observations,”  
+*IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1–9, 2025. 
+
+[31] Shuoyi Chen, Mang Ye, **Xingping Dong**, Bo Du,  
+“Perception Assisted Transformer for Unsupervised Object Re-Identification,”  
+*IEEE Transactions on Image Processing*, vol. 34, pp. 2112–2123, 2025. **(CCF Rank A)**
+
 ## **2024**
+[30] Yukun Zhai, Xiaoqiang Zhang, Xiameng Qin, Sanyuan Zhao, **Xingping Dong**, Jianbing Shen,  
+“TextFormer: A Query-Based End-to-End Text Spotter With Mixed Supervision,”  
+*Machine Intelligence Research*, vol. 21, no. 4, pp. 704–717, 2024.
+
 [29] **Xingping Dong***, Tianran Ouyang, Shengcai Liao*, Bo Du, Ling Shao, "Pseudo-Labeling Based Practical Semi-Supervised Meta-Training for Few-Shot Learning," in **IEEE Transactions on Image Processing**, vol. 33, pp. 5663-5675, 2024. **(CCF Rank A)** [arXiv](https://arxiv.org/pdf/2207.06817) [code](https://github.com/ouyangtianran/PLML)
 
 [28] Yanghong Liu, **Xingping Dong***, Yutian Lin, Mang Ye, "DifTraj: Diffusion Inspired by Intrinsic Intention and Extrinsic Interaction for Multi-Modal Trajectory Prediction", in **Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI)**, 2024. **(CCF Rank A)** [pdf](www.ijcai.org/proceedings/2024/0125.pdf)
