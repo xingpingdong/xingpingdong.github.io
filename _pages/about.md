@@ -28,7 +28,6 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
 # 🔥 News
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
-  ```
 - *2025.12*: &nbsp;🎉🎉 one paper is accepted to TPAMI.
 - *2025.11*: &nbsp;🎉🎉 one paper is accepted to AAAI'26.
 - *2025.03*: &nbsp;🎉🎉 one paper is accepted to TPAMI and one paper is accepted to CVPR'25.
@@ -40,8 +39,6 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
 - *2023.03*: &nbsp;🎉🎉 one paper is accepted to CVPR'23. 
 - *2022.12*: &nbsp;🎉🎉 one paper is accepted to TPAMI. 
 - *2022.07*: &nbsp;🎉🎉 two papers are accepted to ECCV'22, including one Oral paper. 
-```
-
 </div>
 
 
