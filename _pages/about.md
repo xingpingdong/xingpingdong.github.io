@@ -26,42 +26,28 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
 
 
 # 🔥 News
-<div style="height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
-
-- *2025.12*: &nbsp;🎉🎉 one paper is accepted to TPAMI. <br>
-- *2025.11*: &nbsp;🎉🎉 one paper is accepted to AAAI'26.
-- *2025.03*: &nbsp;🎉🎉 one paper is accepted to TPAMI and one paper is accepted to CVPR'25.
-- *2025.02*: &nbsp;🎉🎉 one paper is accepted to TIP. 
-- *2024.10*: &nbsp;🎉🎉 one paper is accepted to TVCG. 
-- *2024.08*: &nbsp;🎉🎉 one paper is accepted to TIP. 
-- *2024.05*: &nbsp;🎉🎉 one paper is accepted to TPAMI.
-- *2024.04*: &nbsp;🎉🎉 one paper is accepted to IJCAI.
-- *2023.03*: &nbsp;🎉🎉 one paper is accepted to CVPR'23. 
-- *2022.12*: &nbsp;🎉🎉 one paper is accepted to TPAMI. 
-- *2022.07*: &nbsp;🎉🎉 two papers are accepted to ECCV'22, including one Oral paper.
-
-</div>
-
 <div style="
     max-height: 220px;
     overflow-y: auto;
     padding: 10px 15px;
     border: 1px solid #ddd;
     border-radius: 6px;
-    line-height: 1.6;
+    line-height: 1.2;
     background-color: #fafafa;
 ">
-  <p><b>2025.12</b> 🎉🎉 one paper is accepted to TPAMI.</p>
-  <p><b>2025.11</b> 🎉🎉 one paper is accepted to AAAI'26.</p>
-  <p><b>2025.03</b> 🎉🎉 one paper is accepted to TPAMI and one paper is accepted to CVPR'25.</p>
-  <p><b>2025.02</b> 🎉🎉 one paper is accepted to TIP.</p>
-  <p><b>2024.10</b> 🎉🎉 one paper is accepted to TVCG.</p>
-  <p><b>2024.08</b> 🎉🎉 one paper is accepted to TIP.</p>
-  <p><b>2024.05</b> 🎉🎉 one paper is accepted to TPAMI.</p>
-  <p><b>2024.04</b> 🎉🎉 one paper is accepted to IJCAI.</p>
-  <p><b>2023.03</b> 🎉🎉 one paper is accepted to CVPR'23.</p>
-  <p><b>2022.12</b> 🎉🎉 one paper is accepted to TPAMI.</p>
-  <p><b>2022.07</b> 🎉🎉 two papers are accepted to ECCV'22, including one Oral paper.</p>
+  <ul style="margin: 0; padding-left: 18px;">
+    <li><b>2025.12</b>: 🎉🎉 one paper is accepted to TPAMI.</li>
+    <li><b>2025.11</b>: 🎉🎉 one paper is accepted to AAAI'26.</li>
+    <li><b>2025.03</b>: 🎉🎉 one paper is accepted to TPAMI and one paper is accepted to CVPR'25.</li>
+    <li><b>2025.02</b>: 🎉🎉 one paper is accepted to TIP.</li>
+    <li><b>2024.10</b>: 🎉🎉 one paper is accepted to TVCG.</li>
+    <li><b>2024.08</b>: 🎉🎉 one paper is accepted to TIP.</li>
+    <li><b>2024.05</b>: 🎉🎉 one paper is accepted to TPAMI.</li>
+    <li><b>2024.04</b>: 🎉🎉 one paper is accepted to IJCAI.</li>
+    <li><b>2023.03</b>: 🎉🎉 one paper is accepted to CVPR'23.</li>
+    <li><b>2022.12</b>: 🎉🎉 one paper is accepted to TPAMI.</li>
+    <li><b>2022.07</b>: 🎉🎉 two papers are accepted to ECCV'22, including one Oral paper.</li>
+  </ul>
 </div>
 
 
