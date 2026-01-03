@@ -38,7 +38,8 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
 - *2024.04*: &nbsp;🎉🎉 one paper is accepted to IJCAI.
 - *2023.03*: &nbsp;🎉🎉 one paper is accepted to CVPR'23. 
 - *2022.12*: &nbsp;🎉🎉 one paper is accepted to TPAMI. 
-- *2022.07*: &nbsp;🎉🎉 two papers are accepted to ECCV'22, including one Oral paper. 
+- *2022.07*: &nbsp;🎉🎉 two papers are accepted to ECCV'22, including one Oral paper.
+
 </div>
 
 
