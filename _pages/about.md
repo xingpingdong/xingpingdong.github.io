@@ -42,12 +42,34 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
 
 </div>
 
+<div style="
+    max-height: 220px;
+    overflow-y: auto;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    line-height: 1.6;
+    background-color: #fafafa;
+">
+  <p><b>2025.12</b> 🎉🎉 one paper is accepted to TPAMI.</p>
+  <p><b>2025.11</b> 🎉🎉 one paper is accepted to AAAI'26.</p>
+  <p><b>2025.03</b> 🎉🎉 one paper is accepted to TPAMI and one paper is accepted to CVPR'25.</p>
+  <p><b>2025.02</b> 🎉🎉 one paper is accepted to TIP.</p>
+  <p><b>2024.10</b> 🎉🎉 one paper is accepted to TVCG.</p>
+  <p><b>2024.08</b> 🎉🎉 one paper is accepted to TIP.</p>
+  <p><b>2024.05</b> 🎉🎉 one paper is accepted to TPAMI.</p>
+  <p><b>2024.04</b> 🎉🎉 one paper is accepted to IJCAI.</p>
+  <p><b>2023.03</b> 🎉🎉 one paper is accepted to CVPR'23.</p>
+  <p><b>2022.12</b> 🎉🎉 one paper is accepted to TPAMI.</p>
+  <p><b>2022.07</b> 🎉🎉 two papers are accepted to ECCV'22, including one Oral paper.</p>
+</div>
 
 
 # 📝 Publications 
 * *Corresponding Author, #Equal Contribution
   
 ## Early Access
+
 [2] Yanghong Liu, **Xingping Dong***, Yutian Lin, Mang Ye, Kaihao Zhang, Bo Du*, 
 "Condition-Guided Diffusion for Multi-Modal Pedestrian Trajectory Prediction Incorporating Intention and Interaction Priors", 
 in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, doi: 10.1109/TPAMI.2025.3645918, early access. **(SCI, IF=18.6, CCF Rank A)** [IEEE](https://ieeexplore.ieee.org/document/11303920) [code](https://github.com/HelloWorld416/CGD-TraP)
