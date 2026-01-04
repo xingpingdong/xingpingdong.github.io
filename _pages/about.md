@@ -54,8 +54,7 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
 # 📝 Publications 
 * *Corresponding Author, #Equal Contribution
   
-## Early Access
-
+## **Early Access**
 [2] Yanghong Liu, **Xingping Dong***, Yutian Lin, Mang Ye, Kaihao Zhang, Bo Du*, 
 "Condition-Guided Diffusion for Multi-Modal Pedestrian Trajectory Prediction Incorporating Intention and Interaction Priors", 
 in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, doi: 10.1109/TPAMI.2025.3645918, early access. **(SCI, IF=18.6, CCF Rank A)** [IEEE](https://ieeexplore.ieee.org/document/11303920) [code](https://github.com/HelloWorld416/CGD-TraP)
