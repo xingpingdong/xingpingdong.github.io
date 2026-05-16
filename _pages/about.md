@@ -36,6 +36,8 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
     background-color: #fafafa;
 ">
   <ul style="margin: 0; padding-left: 18px;">
+    <li><b>2026.05</b>: 🎉🎉 one paper is accepted to ICML2026.</li>
+    <li><b>2026.03</b>: 🎉🎉 three papers are accepted to CVPR'26 (two main and one findings).</li>
     <li><b>2025.12</b>: 🎉🎉 one paper is accepted to TPAMI.</li>
     <li><b>2025.11</b>: 🎉🎉 one paper is accepted to AAAI'26.</li>
     <li><b>2025.03</b>: 🎉🎉 one paper is accepted to TPAMI and one paper is accepted to CVPR'25.</li>
@@ -55,13 +57,35 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
 * *Corresponding Author, #Equal Contribution
   
 ## **Early Access**
-[2] Yanghong Liu, **Xingping Dong***, Yutian Lin, Mang Ye, Kaihao Zhang, Bo Du*, 
-"Condition-Guided Diffusion for Multi-Modal Pedestrian Trajectory Prediction Incorporating Intention and Interaction Priors", 
-in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, doi: 10.1109/TPAMI.2025.3645918, early access. **(SCI, IF=18.6, CCF Rank A)** [IEEE](https://ieeexplore.ieee.org/document/11303920) [code](https://github.com/HelloWorld416/CGD-TraP)
+[4] Muyu Wang, **Xingping Dong***, Jianzhe Gao, Wenguan Wang, Yujia Wang,
+“SAMT: Generating Structured Avatar Meshes and Textures from a Single Image”,
+in **Forty-third International Conference on Machine Learning (ICML)**, 2026. **(CCF Rank A)**
 
-[1] Haoran Wei, Wencheng Han, **Xingping Dong**, Jianbing Shen*,
+[3] Liang Peng, Bohan Tan, Zhipeng Zhang, Haobo Li, Yifan Jiao, **Xingping Dong***, Libo Zhang,
+“Towards Visual Query Localization in the 3D World”,
+in **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. **(CCF Rank A)** [arxiv](https://arxiv.org/abs/2605.01498v1) [code](https://github.com/xingpingdong/3DVQL)
+
+[2] Yani Zhang, Dongming Wu, Hao Shi, Yingfei Liu, Tiancai Wang, **Xingping Dong***,
+“DEGround: An Effective Baseline for Ego-centric 3D Visual Grounding with a Homogeneous Framework”,
+in **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Findings**, 2026. **(CCF Rank A)** [arxiv](https://arxiv.org/abs/2506.05199v3) 
+
+[1] Fan Yang, **Xingping Dong**, Xin Yu, Wenhan Luo, Wei Liu, Kaihao Zhang*,
+“MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding”,
+in **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. **(CCF Rank A)** [arxiv](https://arxiv.org/abs/2512.02906) [code](https://github.com/yf0412/MRD)
+
+## **2026**
+
+[37] Yanghong Liu, **Xingping Dong***, Yutian Lin, Mang Ye, Kaihao Zhang, Bo Du*, 
+"Condition-Guided Diffusion for Multi-Modal Pedestrian Trajectory Prediction Incorporating Intention and Interaction Priors", 
+in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, vol. 48, no. 4, pp. 4406-4419, April 2026, doi: 10.1109/TPAMI.2025.3645918. **(SCI, IF=18.6, CCF Rank A)** [IEEE](https://ieeexplore.ieee.org/document/11303920) [code](https://github.com/HelloWorld416/CGD-TraP) [code](https://github.com/xingpingdong/CGD-TraP)
+
+[36] Haoran Wei, Wencheng Han, **Xingping Dong**, Jianbing Shen*,
 "Towards high-fidelity 3d portrait generation with rich details by cross-view prior-aware diffusion",
-in **The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)**, 2026. [arxiv](https://arxiv.org/pdf/2411.10369) [code](https://haoran-wei.github.io/PortraitDiffusion)
+in **The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)**, 40(13), 10521–10529, 2026. [arxiv](https://arxiv.org/pdf/2411.10369) [code](https://haoran-wei.github.io/PortraitDiffusion)
+
+[37] A Qi, Sanyuan Zhao*, **Xingping Dong**, Jianbing Shen,
+ "Language Interprets Vision: Adaptive Encoding and Decoding for Referring Image Segmentation," 
+ in Computational Visual Media, vol. 12, no. 1, pp. 189-202, February 2026, doi: 10.26599/CVM.2025.9450427. [IEEE](https://ieeexplore.ieee.org/abstract/document/11363134)
 
 ## **2025**
 [35] Muyu Wang, Sanyuan Zhao, **Xingping Dong***, Jianbing Shen,
@@ -107,7 +131,7 @@ Learning Disentanglement with Decoupled Labels for Vision-Language Navigation. I
 [23] **Xingping Dong**, Jianbing Shen*, and Ling Shao,
 Rethinking Clustering-Based Pseudo-Labeling for Unsupervised Meta-Learning. In **ECCV**, 2022. [pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800160.pdf), [code](https://github.com/xingpingdong/PL-CFE)
 
-[21] Dongming Wu#, **Xingping Dong**#, Ling Shao, and Jianbing Shen*.
+[22] Dongming Wu#, **Xingping Dong**#, Ling Shao, and Jianbing Shen*.
 Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation. In **CVPR**, 2022. **(CCF Rank A)** [pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf) (#Equal contribution)
 
 ## **2021**
