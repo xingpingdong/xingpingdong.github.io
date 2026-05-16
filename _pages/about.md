@@ -75,15 +75,15 @@ in **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recog
 
 ## **2026**
 
-[37] Yanghong Liu, **Xingping Dong***, Yutian Lin, Mang Ye, Kaihao Zhang, Bo Du*, 
+[38] Yanghong Liu, **Xingping Dong***, Yutian Lin, Mang Ye, Kaihao Zhang, Bo Du*, 
 "Condition-Guided Diffusion for Multi-Modal Pedestrian Trajectory Prediction Incorporating Intention and Interaction Priors", 
 in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, vol. 48, no. 4, pp. 4406-4419, April 2026, doi: 10.1109/TPAMI.2025.3645918. **(SCI, IF=18.6, CCF Rank A)** [IEEE](https://ieeexplore.ieee.org/document/11303920) [code](https://github.com/HelloWorld416/CGD-TraP) [code](https://github.com/xingpingdong/CGD-TraP)
 
-[36] Haoran Wei, Wencheng Han, **Xingping Dong**, Jianbing Shen*,
+[37] Haoran Wei, Wencheng Han, **Xingping Dong**, Jianbing Shen*,
 "Towards high-fidelity 3d portrait generation with rich details by cross-view prior-aware diffusion",
 in **The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)**, 40(13), 10521–10529, 2026. [arxiv](https://arxiv.org/pdf/2411.10369) [code](https://haoran-wei.github.io/PortraitDiffusion)
 
-[37] A Qi, Sanyuan Zhao*, **Xingping Dong**, Jianbing Shen,
+[36] A Qi, Sanyuan Zhao*, **Xingping Dong**, Jianbing Shen,
  "Language Interprets Vision: Adaptive Encoding and Decoding for Referring Image Segmentation," 
  in Computational Visual Media, vol. 12, no. 1, pp. 189-202, February 2026, doi: 10.26599/CVM.2025.9450427. [IEEE](https://ieeexplore.ieee.org/abstract/document/11363134)
 
