@@ -90,7 +90,7 @@ in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, v
 
 [37] Haoran Wei, Wencheng Han, **Xingping Dong**, Jianbing Shen*,
 "Towards high-fidelity 3d portrait generation with rich details by cross-view prior-aware diffusion",
-in **The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)**, 40(13), 10521–10529, 2026. [arxiv](https://arxiv.org/pdf/2411.10369) [code](https://haoran-wei.github.io/PortraitDiffusion)
+in **The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)**, 40(13), 10521–10529, 2026. [arxiv](https://arxiv.org/pdf/2411.10369) [code](https://github.com/Haoran-WEI/Portrait-Diffusion)
 
 [36] A Qi, Sanyuan Zhao*, **Xingping Dong**, Jianbing Shen,
  "Language Interprets Vision: Adaptive Encoding and Decoding for Referring Image Segmentation," 
