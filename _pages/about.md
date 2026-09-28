@@ -20,7 +20,7 @@ redirect_from:
 **Xingping Dong** is a professor in the School of Computer Science, Wuhan University. He was a research scientist in Inception Institute of Artificial Intelligence (IIAI), 2019-2023. In 2019, he received his Ph.D. degree in Beijing Lab of Intelligent Information Technology at School of Computer Science, Beijing Institute of Technology (BIT). He worked as a joint Ph.D. student in College of Engineering \& Computer Science, Australian National University (ANU). 
 He has published 30+ conference and journal papers such as **IEEE CVPR, ECCV, IEEE TPAMI, IEEE TIP, IEEE TVCG, IEEE TMM, IEEE TNNLS, IEEE TCYB and IEEE TCSVT**.
 His Google scholar citations are about <a href='https://scholar.google.com/citations?user=3h3tZpAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-Four papers are selected as the **ESI Highly Cited** Paper including one **ESI Hot** Paper. He has also obtained many flagship scholarships such as **National Natural Science Fund for Excellent Young scientists Fund Program (Overseas), Excellent CAAI PhD thesis award, National scholarship for doctoral students, National scholarship for studying abroad, and Excellent Graduates in Beijing**. He is the regular reviewer for many famous conferences, such as IEEE CVPR, IEEE ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, and ACCV, and journals, such as IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, TITS, PR, CVIU, NEUCOM, TVCJ, and SIVP. His current research interests include (1) Visual object tracking, (2) Deep reinforcement learning, (3) Image segmentation, (4) Few shot learning, (5) 3D reconstruction. 
+Six papers are selected as the **ESI Highly Cited** Paper including two **ESI Hot** Paper. He has also obtained many flagship scholarships such as **National Natural Science Fund for Excellent Young scientists Fund Program (Overseas), Excellent CAAI PhD thesis award, National scholarship for doctoral students, National scholarship for studying abroad, and Excellent Graduates in Beijing**. He is the regular reviewer for many famous conferences, such as IEEE CVPR, IEEE ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, and ACCV, and journals, such as IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, TITS, PR, CVIU, NEUCOM, TVCJ, and SIVP. His current research interests include (1) Visual object tracking, (2) Deep reinforcement learning, (3) Image segmentation, (4) Few shot learning, (5) 3D reconstruction. 
 
 **E-Mail**: xingping.dong@gmail.com
 
@@ -36,6 +36,8 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
     background-color: #fafafa;
 ">
   <ul style="margin: 0; padding-left: 18px;">
+    <li><b>2026.09</b>: 🎉🎉 one paper is accepted to NeurIPS2026.</li>
+    <li><b>2026.07</b>: 🎉🎉 one paper is accepted to ECCV2026.</li>
     <li><b>2026.05</b>: 🎉🎉 one paper is accepted to ICML2026.</li>
     <li><b>2026.03</b>: 🎉🎉 three papers are accepted to CVPR'26 (two main and one findings).</li>
     <li><b>2025.12</b>: 🎉🎉 one paper is accepted to TPAMI.</li>
@@ -57,27 +59,34 @@ Four papers are selected as the **ESI Highly Cited** Paper including one **ESI H
 * *Corresponding Author, #Equal Contribution
   
 ## **Early Access**
-[4] Muyu Wang, **Xingping Dong***, Jianzhe Gao, Wenguan Wang, Yujia Wang,
+[1] Tianran Ouyang, Peiqin Xu, **Xingping Dong***, Kaihao Zhang, Bo Du, 
+"DynaProto: Dynamic Prototypical Contrast for Temporally Consistent Object-Centric Learning",
+in **The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS)**, 2026. **(CCF Rank A)** 
+
+## **2026**
+[43] Tianran Ouyang, **Xingping Dong***, Jing Zhang, Mang Ye, Kaihao Zhang, Bo Du, 
+"QASA: Quality-Guided K-Adaptive Slot Attention for Unsupervised Object-Centric Learning",  
+in **European Conference on Computer Vision (ECCV)**, pp 492–508, 2026. [arxiv](https://arxiv.org/html/2601.12936v1) [code](https://github.com/ouyangtianran/QASA-tianran)
+
+[42] Muyu Wang, **Xingping Dong***, Jianzhe Gao, Wenguan Wang, Yujia Wang,
 “SAMT: Generating Structured Avatar Meshes and Textures from a Single Image”,
-in **Forty-third International Conference on Machine Learning (ICML)**, 2026. **(CCF Rank A)**
+in **Forty-third International Conference on Machine Learning (ICML)**, 2026. **(CCF Rank A)** [openreview](https://openreview.net/pdf?id=tfIZPwA6s0) [code](https://github.com/muyuWang/SAMT)
 
-[3] Liang Peng, Bohan Tan, Zhipeng Zhang, Haobo Li, Yifan Jiao, **Xingping Dong***, Libo Zhang,
+[41] Liang Peng, Bohan Tan, Zhipeng Zhang, Haobo Li, Yifan Jiao, **Xingping Dong***, Libo Zhang,
 “Towards Visual Query Localization in the 3D World”,
-in **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. **(CCF Rank A)** [arxiv](https://arxiv.org/abs/2605.01498v1) [code](https://github.com/xingpingdong/3DVQL)
+in **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026, pp. 41406-41415. **(CCF Rank A)** [arxiv](https://arxiv.org/abs/2605.01498v1) [code](https://github.com/xingpingdong/3DVQL)
 
-[2] Yani Zhang, Dongming Wu, Hao Shi, Yingfei Liu, Tiancai Wang, **Xingping Dong***,
+[40] Yani Zhang, Dongming Wu, Hao Shi, Yingfei Liu, Tiancai Wang, **Xingping Dong***,
 “DEGround: An Effective Baseline for Ego-centric 3D Visual Grounding with a Homogeneous Framework”,
-in **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Findings**, 2026. **(CCF Rank A)** [arxiv](https://arxiv.org/abs/2506.05199v3) 
+in **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Findings**, 2026, pp. 3103-3113. [CVF](https://openaccess.thecvf.com/content/CVPR2026F/html/Zhang_DEGround_An_Effective_Baseline_for_Ego-centric_3D_Visual_Grounding_With_CVPRF_2026_paper.html) 
 
-[1] Fan Yang, **Xingping Dong**, Xin Yu, Wenhan Luo, Wei Liu, Kaihao Zhang*,
+[39] Fan Yang, **Xingping Dong**, Xin Yu, Wenhan Luo, Wei Liu, Kaihao Zhang*,
 “MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding”,
 in **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. **(CCF Rank A)** [arxiv](https://arxiv.org/abs/2512.02906) [code](https://github.com/yf0412/MRD)
 
-## **2026**
-
 [38] Yanghong Liu, **Xingping Dong***, Yutian Lin, Mang Ye, Kaihao Zhang, Bo Du*, 
 "Condition-Guided Diffusion for Multi-Modal Pedestrian Trajectory Prediction Incorporating Intention and Interaction Priors", 
-in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, vol. 48, no. 4, pp. 4406-4419, April 2026, doi: 10.1109/TPAMI.2025.3645918. **(SCI, IF=18.6, CCF Rank A)** [IEEE](https://ieeexplore.ieee.org/document/11303920) [code](https://github.com/HelloWorld416/CGD-TraP) [code](https://github.com/xingpingdong/CGD-TraP)
+in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, vol. 48, no. 4, pp. 4406-4419, April 2026, doi: 10.1109/TPAMI.2025.3645918. **(SCI, IF=18.6, CCF Rank A, `ESI Highly Cited (1%), and Hot (0.1%) Paper`)** [IEEE](https://ieeexplore.ieee.org/document/11303920) [code](https://github.com/HelloWorld416/CGD-TraP) [code-fork](https://github.com/xingpingdong/CGD-TraP)
 
 [37] Haoran Wei, Wencheng Han, **Xingping Dong**, Jianbing Shen*,
 "Towards high-fidelity 3d portrait generation with rich details by cross-view prior-aware diffusion",
@@ -137,7 +146,7 @@ Multi-Level Representation Learning with Semantic Alignment for Referring Video 
 ## **2021**
 
 [21] Jianbing Shen#*, Yuanpei Liu#, **Xingping Dong**#, Xiankai Lu, Fahad Shahbaz Khan, and Steven CH Hoi.
-Distilled Siamese Networks for Visual Tracking. **IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)**, 2021. **(SCI, IF=24.314, CCF Rank A)** (#Equal contribution)
+Distilled Siamese Networks for Visual Tracking. **IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)**, 2021. **(SCI, IF=24.314, CCF Rank A, `ESI Highly Cited (1%) Paper`)** (#Equal contribution)
 
 [20] Wencheng Han#, **Xingping Dong**#, Fahad Shahbaz Khan, Ling Shao, and Jianbing Shen*.
 Learning to Fuse Asymmetric Feature Maps in Siamese Trackers. In **CVPR**, 2021. **(CCF Rank A)** [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Han_Learning_To_Fuse_Asymmetric_Feature_Maps_in_Siamese_Trackers_CVPR_2021_paper.pdf), [code](https://github.com/wencheng256/SiamBAN-ACM) (#Equal contribution)
