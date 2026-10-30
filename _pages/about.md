@@ -36,6 +36,7 @@ Six papers are selected as the **ESI Highly Cited** Paper including two **ESI Ho
     background-color: #fafafa;
 ">
   <ul style="margin: 0; padding-left: 18px;">
+    <li><b>2026.10</b>: 🎉🎉 one paper is accepted to TPAMI.</li>
     <li><b>2026.09</b>: 🎉🎉 one paper is accepted to NeurIPS2026.</li>
     <li><b>2026.07</b>: 🎉🎉 one paper is accepted to ECCV2026.</li>
     <li><b>2026.05</b>: 🎉🎉 one paper is accepted to ICML2026.</li>
@@ -62,6 +63,10 @@ Six papers are selected as the **ESI Highly Cited** Paper including two **ESI Ho
 [1] Tianran Ouyang, Peiqin Xu, **Xingping Dong***, Kaihao Zhang, Bo Du, 
 "DynaProto: Dynamic Prototypical Contrast for Temporally Consistent Object-Centric Learning",
 in **The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS)**, 2026. **(CCF Rank A)** 
+
+[2] Yani Zhang#, Dongming Wu#, Wencheng Han, **Xingping Dong***, Shengcai Liao, Bo Du*
+"Referring Multi-Object Tracking with Diverse Dynamic Expressions", DOI Bookmark: 10.1109/TPAMI.2026.3745142
+in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, doi: 10.1109/TPAMI.2026.3745142. **(SCI, IF=18.6, CCF Rank A)** [IEEE](https://www.computer.org/csdl/journal/tp/5555/01/11741324/2kIqpceqqw8) [arXiv](https://arxiv.org/abs/2406.05039) [github](https://github.com/zyn213/TempRMOT)
 
 ## **2026**
 [43] Tianran Ouyang, **Xingping Dong***, Jing Zhang, Mang Ye, Kaihao Zhang, Bo Du, 
