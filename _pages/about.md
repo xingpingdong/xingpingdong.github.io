@@ -64,7 +64,7 @@ Six papers are selected as the **ESI Highly Cited** Paper including two **ESI Ho
 "DynaProto: Dynamic Prototypical Contrast for Temporally Consistent Object-Centric Learning",
 in **The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS)**, 2026. **(CCF Rank A)** 
 
-[2] Yani Zhang#, Dongming Wu#, Wencheng Han, **Xingping Dong***, Shengcai Liao, Bo Du*
+[2] Yani Zhang#, Dongming Wu#, Wencheng Han, **Xingping Dong***, Shengcai Liao, Bo Du*, 
 "Referring Multi-Object Tracking with Diverse Dynamic Expressions", DOI Bookmark: 10.1109/TPAMI.2026.3745142
 in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, doi: 10.1109/TPAMI.2026.3745142. **(SCI, IF=18.6, CCF Rank A)** [IEEE](https://www.computer.org/csdl/journal/tp/5555/01/11741324/2kIqpceqqw8) [arXiv](https://arxiv.org/abs/2406.05039) [github](https://github.com/zyn213/TempRMOT)
 
@@ -73,7 +73,7 @@ in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, d
 "QASA: Quality-Guided K-Adaptive Slot Attention for Unsupervised Object-Centric Learning",  
 in **European Conference on Computer Vision (ECCV)**, pp 492–508, 2026. [arxiv](https://arxiv.org/html/2601.12936v1) [code](https://github.com/ouyangtianran/QASA-tianran)
 
-[42] Muyu Wang, **Xingping Dong***, Jianzhe Gao, Wenguan Wang, Yujia Wang,
+[42] Muyu Wang#, Jianzhe Gao#, *Xingping Dong***, Yujia Wang, Wenguan Wang, 
 “SAMT: Generating Structured Avatar Meshes and Textures from a Single Image”,
 in **Forty-third International Conference on Machine Learning (ICML)**, 2026. **(CCF Rank A)** [openreview](https://openreview.net/pdf?id=tfIZPwA6s0) [code](https://github.com/muyuWang/SAMT)
 
