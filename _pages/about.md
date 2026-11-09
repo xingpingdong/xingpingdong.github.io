@@ -71,6 +71,7 @@ in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, d
 ## **2026**
 [44] Liang Peng, Chenxiao Li, Shaohua Dong, Bohan Tan, Zhipeng Zhang,  **Xingping Dong***,
 "PCRP: Progressive Coarse-to-Fine Refinement for Pathology Grounding", in **Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026**, pp 375–384, 2026. [pdf](https://papers.miccai.org/miccai-2026/0762-Paper4084.html) [code](https://github.com/wuhengliangliang/PCRP)
+
 [43] Tianran Ouyang, **Xingping Dong***, Jing Zhang, Mang Ye, Kaihao Zhang, Bo Du, 
 "QASA: Quality-Guided K-Adaptive Slot Attention for Unsupervised Object-Centric Learning",  
 in **European Conference on Computer Vision (ECCV)**, pp 492–508, 2026. [arxiv](https://arxiv.org/html/2601.12936v1) [code](https://github.com/ouyangtianran/QASA-tianran)
