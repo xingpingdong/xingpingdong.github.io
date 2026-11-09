@@ -69,6 +69,8 @@ in **The Fortieth Annual Conference on Neural Information Processing Systems (Ne
 in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, doi: 10.1109/TPAMI.2026.3745142. **(SCI, IF=18.6, CCF Rank A)** [IEEE](https://www.computer.org/csdl/journal/tp/5555/01/11741324/2kIqpceqqw8) [arXiv](https://arxiv.org/abs/2406.05039) [github](https://github.com/zyn213/TempRMOT)
 
 ## **2026**
+[44] Liang Peng, Chenxiao Li, Shaohua Dong, Bohan Tan, Zhipeng Zhang,  **Xingping Dong***,
+"PCRP: Progressive Coarse-to-Fine Refinement for Pathology Grounding", in **Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026**, pp 375–384, 2026. [pdf](https://papers.miccai.org/miccai-2026/0762-Paper4084.html) [code](https://github.com/wuhengliangliang/PCRP)
 [43] Tianran Ouyang, **Xingping Dong***, Jing Zhang, Mang Ye, Kaihao Zhang, Bo Du, 
 "QASA: Quality-Guided K-Adaptive Slot Attention for Unsupervised Object-Centric Learning",  
 in **European Conference on Computer Vision (ECCV)**, pp 492–508, 2026. [arxiv](https://arxiv.org/html/2601.12936v1) [code](https://github.com/ouyangtianran/QASA-tianran)
